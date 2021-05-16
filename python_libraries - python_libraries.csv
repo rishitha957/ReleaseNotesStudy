@@ -1,0 +1,150 @@
+https://github.com/psf/requests,https://docs.python-requests.org/en/latest/community/updates/#release-history,https://github.com/psf/requests/releases,-
+https://github.com/pandas-dev/pandas,https://pandas.pydata.org/docs/whatsnew/index.html,https://github.com/pandas-dev/pandas/releases,"//*[(@id = ""bd-docs-nav"")]//a"
+https://github.com/willmcgugan/rich,-,https://github.com/willmcgugan/rich/releases,-
+https://github.com/dmlc/xgboost,-,https://github.com/dmlc/xgboost/releases,-
+https://github.com/fastai/fastai,-,https://github.com/fastai/fastai/releases,-
+https://github.com/tornadoweb/tornado,https://www.tornadoweb.org/en/stable/releases.html,https://github.com/tornadoweb/tornado/releases,"//*[(@id = ""release-notes"")]//*[contains(concat( "" "", @class, "" "" ), concat( "" "", ""toctree-l1"", "" "" ))]//>//*[contains(concat( "" "", @class, "" "" ), concat( "" "", ""internal"", "" "" ))]"
+https://github.com/google/python-fire,https://pypi.org/project/fire/#history,https://github.com/google/python-fire/releases,"//div[@class=""release release--latest release--current""]/a[@class=""card release__card""]"
+https://github.com/ccxt/ccxt,https://pypi.org/project/ccxt/1.42.61/#history,https://github.com/ccxt/ccxt/releases,"//div[@class=""release release--latest release--current""]/a[@class=""card release__card""]"
+https://github.com/google/flatbuffers,-,https://github.com/google/flatbuffers/releases,-
+https://github.com/deezer/spleeter,-,https://github.com/deezer/spleeter/releases,-
+https://github.com/ray-project/ray,-,https://github.com/ray-project/ray/releases,
+https://github.com/quantopian/zipline,,https://github.com/quantopian/zipline/releases,
+https://github.com/bharathgs/Awesome-pytorch-list,-,-,-
+https://github.com/pyecharts/pyecharts,-,https://github.com/pyecharts/pyecharts/releases,-
+https://github.com/beetbox/beets,https://beets.readthedocs.io/en/stable/changelog.html,https://github.com/beetbox/beets/releases,-
+https://github.com/allenai/allennlp,http://docs.allennlp.org/main/CHANGELOG/,https://github.com/allenai/allennlp/releases,-
+https://github.com/Theano/Theano,https://docs.nvidia.com/deeplearning/frameworks/theano-release-notes/index.html,https://github.com/Theano/Theano/releases,"//*[(@id = ""toc"")]//a"
+https://github.com/plotly/plotly.py,-,https://github.com/plotly/plotly.py/blob/master/CHANGELOG.md,-
+https://github.com/lionsoul2014/ip2region,-,-,-
+https://github.com/python-pillow/Pillow,https://pillow.readthedocs.io/en/stable/releasenotes/index.html,https://github.com/python-pillow/Pillow/releases,"//*[(@id = ""release-notes"")]//*[contains(concat( "" "", @class, "" "" ), concat( "" "", ""toctree-l1"", "" "" ))]//>//*[contains(concat( "" "", @class, "" "" ), concat( "" "", ""internal"", "" "" ))]"
+https://github.com/keras-team/autokeras,-,https://github.com/keras-team/autokeras/releases,-
+https://github.com/Gallopsled/pwntools,-,https://github.com/Gallopsled/pwntools/releases,-
+https://github.com/apache/arrow,https://arrow.apache.org/release/,https://github.com/apache/arrow/releases,"//*[contains(concat( "" "", @class, "" "" ), concat( "" "", ""pb-5"", "" "" ))]//a"
+https://github.com/albumentations-team/albumentations,https://albumentations.ai/docs/release_notes/,https://github.com/albumentations-team/albumentations/releases,-
+https://github.com/OpenMined/PySyft,-,https://github.com/OpenMined/PySyft/releases,-
+https://github.com/prompt-toolkit/python-prompt-toolkit,-,https://github.com/prompt-toolkit/python-prompt-toolkit/releases,-
+https://github.com/paramiko/paramiko,http://www.paramiko.org/changelog.html,https://github.com/paramiko/paramiko/releases,-
+https://github.com/tensorlayer/tensorlayer,-,https://github.com/tensorlayer/tensorlayer/releases,-
+https://github.com/altair-viz/altair,https://altair-viz.github.io/releases/changes.html,https://github.com/altair-viz/altair/releases,-
+https://github.com/assimp/assimp,-,https://github.com/assimp/assimp/releases,-
+https://github.com/secdev/scapy,https://docs.scrapy.org/en/latest/news.html,https://github.com/secdev/scapy/releases,-
+https://github.com/OlafenwaMoses/ImageAI,-,https://github.com/OlafenwaMoses/ImageAI/releases,-
+https://github.com/mementum/backtrader,-,https://github.com/mementum/backtrader/releases,-
+https://github.com/firmai/industry-machine-learning,-,-,-
+https://github.com/catboost/catboost,-,https://github.com/catboost/catboost/releases,-
+https://github.com/pallets/werkzeug,https://werkzeug.palletsprojects.com/en/latest/changes/,https://github.com/pallets/werkzeug/releases,-
+https://github.com/google/re2,-,-,-
+https://github.com/alteryx/featuretools,https://featuretools.alteryx.com/en/stable/release_notes.html?highlight=release,https://github.com/alteryx/featuretools/releases,
+https://github.com/gevent/gevent,http://www.gevent.org/changelog.html#id1,-,-
+https://github.com/mahmoud/boltons,-,https://github.com/mahmoud/boltons/releases/tag/20.0.0,-
+https://github.com/marshmallow-code/marshmallow,https://marshmallow.readthedocs.io/en/stable/changelog.html?highlight=releases,-,-
+https://github.com/isnowfy/snownlp,-,-,-
+https://github.com/stanfordnlp/stanza,https://stanfordnlp.github.io/stanza/release_history.html,https://github.com/stanfordnlp/stanza/releases,-
+https://github.com/docker/docker-py,https://docker-py.readthedocs.io/en/stable/change-log.html,https://github.com/docker/docker-py/releases,-
+https://github.com/HypothesisWorks/hypothesis,-,https://github.com/HypothesisWorks/hypothesis/releases,-
+https://github.com/cupy/cupy,https://docs.cupy.dev/en/stable/upgrade.html?highlight=releases#api-changes,https://github.com/cupy/cupy/releases,-
+https://github.com/davidhalter/jedi,https://jedi.readthedocs.io/en/latest/docs/changelog.html,-,-
+https://github.com/1adrianb/face-alignment,-,https://github.com/1adrianb/face-alignment/releases,-
+https://github.com/MagicStack/asyncpg,https://pyup.io/changelogs/asyncpg/,https://github.com/MagicStack/asyncpg/releases,-
+https://github.com/gorakhargosh/watchdog,-,https://github.com/gorakhargosh/watchdog/releases,-
+https://github.com/LonamiWebs/Telethon,https://docs.telethon.dev/en/latest/misc/changelog.html?highlight=releases#deprecation,-,-
+https://github.com/googleapis/google-api-python-client,-,https://github.com/googleapis/google-api-python-client/releases,-
+https://github.com/tschellenbach/Stream-Framework,-,-,-
+https://github.com/cloudtools/troposphere,-,https://github.com/cloudtools/troposphere/releases,-
+https://github.com/mdbloice/Augmentor,-,-,-
+https://github.com/librosa/librosa,https://librosa.org/doc/latest/changelog.html,https://github.com/librosa/librosa,-
+https://github.com/ChrisKnott/Eel,-,https://github.com/ChrisKnott/Eel/releases,-
+https://github.com/microsoft/playwright-python,-,https://github.com/microsoft/playwright-python/releases,-
+https://github.com/intel-isl/Open3D,-,https://github.com/intel-isl/Open3D/releases,-
+https://github.com/pytube/pytube,-,https://github.com/pytube/pytube/releases,-
+https://github.com/pypa/virtualenv,https://virtualenv.pypa.io/en/latest/changelog.html,-,-
+https://github.com/tyiannak/pyAudioAnalysis,-,-,-
+https://github.com/Lasagne/Lasagne,-,https://github.com/Lasagne/Lasagne/releases,-
+https://github.com/python-trio/trio,https://trio.readthedocs.io/en/latest/history.html,-,-
+https://github.com/PyCQA/isort,https://pycqa.github.io/isort/CHANGELOG/,https://github.com/PyCQA/isort/releases,-
+https://github.com/MechanicalSoup/MechanicalSoup,https://mechanicalsoup.readthedocs.io/en/stable/ChangeLog.html,https://github.com/MechanicalSoup/MechanicalSoup/releases,-
+https://github.com/googleapis/google-cloud-python,-,https://github.com/googleapis/google-cloud-python/releases,-
+https://github.com/kubernetes-client/python,https://github.com/kubernetes-client/python/blob/release-17.0/CHANGELOG.md,https://github.com/kubernetes/kubernetes/releases,"//*[contains(concat( "" "", @class, "" "" ), concat( "" "", ""container-lg"", "" "" ))]"
+https://github.com/pytoolz/toolz,-,https://github.com/pytoolz/toolz/releases,-
+https://github.com/snipsco/snips-nlu,,https://github.com/snipsco/snips-nlu/releases,
+https://github.com/pytorch/ignite,https://pyup.io/changelogs/pytorch-ignite/,https://github.com/pytorch/ignite/releases,//pre
+https://github.com/rasbt/mlxtend,http://rasbt.github.io/mlxtend/CHANGELOG/,https://github.com/rasbt/mlxtend/releases,-
+https://github.com/google/open-location-code,-,https://github.com/google/open-location-code/releases,-
+https://github.com/klange/toaruos,-,https://github.com/klange/toaruos/releases,-
+https://github.com/agronholm/apscheduler,https://apscheduler.readthedocs.io/en/latest/versionhistory.html,-,-
+https://github.com/geopy/geopy,https://geopy.readthedocs.io/en/stable/#changelog,https://github.com/geopy/geopy/releases,"//*[contains(concat( "" "", @class, "" "" ), concat( "" "", ""doc"", "" "" ))]"
+https://github.com/fo40225/tensorflow-windows-wheel,,,
+https://github.com/aaugustin/websockets,https://websockets.readthedocs.io/en/stable/changelog.html,-,
+https://github.com/gbeced/pyalgotrade,https://github.com/gbeced/pyalgotrade/blob/master/CHANGELOG,,"//*[contains(concat( "" "", @class, "" "" ), concat( "" "", ""js-file-line"", "" "" ))]"
+https://github.com/jindaxiang/akshare,,https://github.com/jindaxiang/akshare/releases,
+https://github.com/emacs-lsp/lsp-mode,https://emacs-lsp.github.io/lsp-mode/page/CHANGELOG/,-,
+https://github.com/pygame/pygame,https://www.pygame.org/whatsnew.shtml,https://github.com/pygame/pygame/releases,
+https://github.com/connorferster/handcalcs,,https://github.com/connorferster/handcalcs/releases,
+https://github.com/NVIDIA/DALI,https://docs.nvidia.com/deeplearning/dali/release-notes/index.html,https://github.com/NVIDIA/DALI/releases,"//*[(@id = ""toc"")]//a"
+https://github.com/getsentry/responses,,https://github.com/getsentry/responses/releases,
+https://github.com/Bogdanp/dramatiq,https://dramatiq.io/changelog.html?highlight=releases,https://github.com/Bogdanp/dramatiq/releases,
+https://github.com/pksunkara/alpaca,https://github.com/pksunkara/alpaca/blob/b86d46b3bf2c09826bd53e33399ac7055147dcc0/CHANGELOG.md,https://github.com/pksunkara/alpaca/releases,"//*[(@id = ""readme"")]//li | //p | //*[(@id = ""readme"")]//h2"
+https://github.com/pyeve/cerberus,https://docs.python-cerberus.org/en/stable/changelog.html,https://github.com/pyeve/cerberus/releases,
+https://github.com/nabla-c0d3/sslyze,,https://github.com/nabla-c0d3/sslyze/releases,
+https://github.com/mherrmann/selenium-python-helium,,https://github.com/mherrmann/selenium-python-helium/releases,
+https://github.com/deanishe/alfred-workflow,,https://github.com/deanishe/alfred-workflow/releases,
+https://github.com/lepture/authlib,https://docs.authlib.org/en/latest/changelog.html,https://github.com/lepture/authlib/releases,
+https://github.com/Kozea/pygal,http://www.pygal.org/en/stable/changelog.html,https://github.com/Kozea/pygal/releases,
+https://github.com/gruns/icecream,,https://github.com/gruns/icecream/releases,
+https://github.com/TeamHG-Memex/eli5,https://eli5.readthedocs.io/en/latest/changes.html,https://github.com/TeamHG-Memex/eli5/releases,
+https://github.com/lief-project/LIEF,https://lief.quarkslab.com/doc/stable/changelog.html#v0.11.0,https://github.com/lief-project/LIEF/releases,
+https://github.com/explosion/thinc,https://pyup.io/changelogs/thinc/,https://github.com/explosion/thinc/releases,
+https://github.com/pyserial/pyserial,https://github.com/pyserial/pyserial/blob/master/CHANGES.rst,https://github.com/pyserial/pyserial/releases,
+https://github.com/home-assistant-libs/pychromecast,https://pyup.io/changelogs/pychromecast/,https://github.com/home-assistant-libs/pychromecast/releases,
+https://github.com/oauthlib/oauthlib,,https://github.com/oauthlib/oauthlib/releases,
+https://github.com/urwid/urwid,http://urwid.org/changelog.html,https://github.com/urwid/urwid/releases,
+https://github.com/celery/kombu,https://docs.celeryproject.org/projects/kombu/en/stable/changelog.html?highlight=releases,https://github.com/celery/kombu/releases,
+https://github.com/prometheus/client_python,,https://github.com/prometheus/client_python/releases,
+https://github.com/aubio/aubio,,https://github.com/aubio/aubio/releases,
+https://github.com/django-import-export/django-import-export,https://django-import-export.readthedocs.io/en/latest/changelog.html,https://github.com/django-import-export/django-import-export/releases,
+https://github.com/Trusted-AI/adversarial-robustness-toolbox,,https://github.com/Trusted-AI/adversarial-robustness-toolbox/releases,
+https://github.com/enigmampc/catalyst,https://www.enigma.co/catalyst/releases.html,https://github.com/enigmampc/catalyst/releases,
+https://github.com/python/typeshed,,https://github.com/python/typeshed/releases,
+https://github.com/viewflow/viewflow,https://github.com/viewflow/viewflow/blob/master/CHANGELOG.rst,https://github.com/viewflow/viewflow/releases,
+https://github.com/gawel/pyquery,https://pyquery.readthedocs.io/en/latest/changes.html?highlight=releases,https://github.com/gawel/pyquery/releases,
+https://github.com/gruns/furl,https://python.libhunt.com/furl-changelog/2.0.0,https://github.com/gruns/furl/releases,
+https://github.com/twitter-archive/commons,,https://github.com/twitter-archive/commons/releases,
+https://github.com/xlwings/xlwings,https://docs.xlwings.org/en/stable/whatsnew.html,https://github.com/xlwings/xlwings/releases,
+https://github.com/chiphuyen/lazynlp,,https://github.com/chiphuyen/lazynlp/releases,
+https://github.com/bukosabino/ta,,https://github.com/bukosabino/ta/releases,
+https://github.com/ping/instagram_private_api,https://github.com/ping/instagram_private_api/blob/master/CHANGELOG.md,https://github.com/ping/instagram_private_api/releases,
+https://github.com/nayuki/QR-Code-generator,,https://github.com/nayuki/QR-Code-generator/releases,
+https://github.com/jameslyons/python_speech_features,,https://github.com/jameslyons/python_speech_features/releases,
+https://github.com/RJT1990/pyflux,,https://github.com/RJT1990/pyflux/releases,
+https://github.com/readbeyond/aeneas,https://www.readbeyond.it/aeneas/docs/changelog.html,https://github.com/readbeyond/aeneas/releases,
+https://github.com/ijl/orjson,https://github.com/ijl/orjson/blob/master/CHANGELOG.md,https://github.com/ijl/orjson/releases,
+https://github.com/pantsbuild/pex,https://github.com/pantsbuild/pex/blob/main/CHANGES.rst,https://github.com/pantsbuild/pex/releases,
+https://github.com/EntilZha/PyFunctional,https://github.com/EntilZha/PyFunctional/blob/master/CHANGELOG.md,https://github.com/EntilZha/PyFunctional/releases,
+https://github.com/bytedeco/javacpp-presets,https://github.com/bytedeco/javacpp-presets/blob/master/CHANGELOG.md,https://github.com/bytedeco/javacpp-presets/releases,
+https://github.com/JelteF/PyLaTeX,https://github.com/JelteF/PyLaTeX/blob/master/docs/source/changelog.rst,https://github.com/JelteF/PyLaTeX/releases,
+https://github.com/MTG/essentia,https://github.com/MTG/essentia/blob/master/Changelog,https://github.com/MTG/essentia/releases,
+https://github.com/apache/libcloud,https://libcloud.readthedocs.io/en/latest/changelog.html,https://github.com/apache/libcloud/releases,
+https://github.com/scrapy/scrapely,https://github.com/scrapy/scrapely/blob/master/NEWS,https://github.com/scrapy/scrapely/releases,
+https://github.com/rlabbe/filterpy,https://github.com/rlabbe/filterpy/blob/master/filterpy/changelog.txt,https://github.com/rlabbe/filterpy/releases,
+https://github.com/pgmpy/pgmpy,https://github.com/pgmpy/pgmpy/blob/dev/CHANGELOG.md,https://github.com/pgmpy/pgmpy/releases,
+https://github.com/andrewssobral/bgslibrary,https://github.com/andrewssobral/bgslibrary/wiki/Release-notes,https://github.com/andrewssobral/bgslibrary/releases,
+https://github.com/TDAmeritrade/stumpy,https://github.com/TDAmeritrade/stumpy/blob/main/CHANGELOG.md,https://github.com/TDAmeritrade/stumpy/releases,
+https://github.com/alecthomas/voluptuous,https://pyup.io/changelogs/voluptuous/,https://github.com/alecthomas/voluptuous/releases,
+https://github.com/rholder/retrying,https://tenacity.readthedocs.io/en/latest/changelog.html,https://github.com/rholder/retrying/releases,
+https://github.com/rytilahti/python-miio,https://github.com/rytilahti/python-miio/blob/master/CHANGELOG.md,https://github.com/rytilahti/python-miio/releases,
+https://github.com/joowani/binarytree,,https://github.com/joowani/binarytree/releases,
+https://github.com/pyrogram/pyrogram,https://docs.pyrogram.org/releases/,https://github.com/pyrogram/pyrogram/releases,"//*[contains(concat( "" "", @class, "" "" ), concat( "" "", ""doc"", "" "" ))]"
+https://github.com/dpilger26/NumCpp,https://dpilger26.github.io/NumCpp/doxygen/html/md__c_1__github__num_cpp_docs_markdown__release_notes.html,https://github.com/dpilger26/NumCpp/releases,
+https://github.com/litl/rauth,https://rauth.readthedocs.io/en/latest/changelog/#,https://github.com/litl/rauth/releases,
+https://github.com/abseil/abseil-py,https://github.com/abseil/abseil-py/blob/master/absl/CHANGELOG.md,https://github.com/abseil/abseil-py/releases,
+https://github.com/achillean/shodan-python,https://github.com/achillean/shodan-python/blob/master/CHANGELOG.md,https://github.com/achillean/shodan-python/releases,
+https://github.com/nerevu/riko,,https://github.com/nerevu/riko/releases,
+https://github.com/dateutil/dateutil,https://dateutil.readthedocs.io/en/stable/changelog.html,https://github.com/dateutil/dateutil/releases,
+https://github.com/Legrandin/pycryptodome,https://pycryptodome.readthedocs.io/en/latest/src/changelog.html,https://github.com/Legrandin/pycryptodome/releases,
+https://github.com/google/aiyprojects-raspbian,https://github.com/google/aiyprojects-raspbian/blob/aiyprojects/CHANGES.md,https://github.com/google/aiyprojects-raspbian/releases,
+https://github.com/mailgun/flanker,,https://github.com/mailgun/flanker/releases,
+https://github.com/patrikhuber/eos,https://github.com/patrikhuber/eos/releases,https://github.com/patrikhuber/eos/releases,
+https://github.com/optuna/optuna,-,https://github.com/optuna/optuna/releases,-
+https://github.com/ricequant/rqalpha,https://rqalpha.readthedocs.io/zh_CN/latest/history.html,https://github.com/ricequant/rqalpha/releases,"//*[contains(concat( "" "", @class, "" "" ), concat( "" "", ""toctree-l2"", "" "" ))]//*[contains(concat( "" "", @class, "" "" ), concat( "" "", ""internal"", "" "" ))]"
+https://github.com/nameko/nameko,https://nameko.readthedocs.io/en/stable/release_notes.html,https://github.com/nameko/nameko/releases,"//li//li//*[contains(concat( "" "", @class, "" "" ), concat( "" "", ""internal"", "" "" ))]"
