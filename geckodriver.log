@@ -2084,9 +2084,10 @@ JavaScript error: http://www.pygal.org/en/stable/changelog.html, line 689: Refer
 JavaScript error: , line 0: uncaught exception: Object
 JavaScript error: , line 0: uncaught exception: Object
 JavaScript error: , line 0: uncaught exception: Object
-arionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofilei1Wnlp"
-1621148120444	Marionette	INFO	Marionette enabled
-JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: , line 0: uncaught exception: Object
+[Parent 9852, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1621177779661	Marionette	INFO	Stopped listening on port 59047
+nd profile directory.
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
 console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
 console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
@@ -2106,3 +2107,27 @@ JavaScript error: https://docs.nvidia.com/deeplearning/dali/release-notes/index.
 JavaScript error: https://platform.twitter.com/widgets/widget_iframe.06c6ee58c3810956b7509218508c7b56.html?origin=https%3A%2F%2Fdocs.python-cerberus.org, line 18: Error: Network error.
 JavaScript error: http://www.pygal.org/en/stable/changelog.html, line 689: ReferenceError: SphinxRtdTheme is not defined
 JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1621177745607	Marionette	INFO	Stopped listening on port 52228
+1621234063577	geckodriver	INFO	Listening on 127.0.0.1:58648
+1621234066797	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofileE7QDuH"
+1621234072220	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+[Parent 15860, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1621234089088	Marionette	INFO	Listening on port 58658
+1621234089279	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://unpkg.com/@jupyter-widgets/html-manager@%5E0.20.0/dist/embed-amd.js, line 1: ReferenceError: define is not defined
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://docs.nvidia.com/deeplearning/frameworks/common/formatting/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://docs.nvidia.com/deeplearning/frameworks/theano-release-notes/index.html, line 193: ReferenceError: stLight is not defined
+JavaScript error: https://docs.scrapy.org/en/latest/news.html, line 4851: ReferenceError: analytics is not defined
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: http://rasbt.github.io/mlxtend/js/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://rasbt.github.io/mlxtend/mathjaxhelper.js, line 1: ReferenceError: MathJax is not defined
+JavaScript warning: https://docs.nvidia.com/deeplearning/dali/common/formatting/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://docs.nvidia.com/deeplearning/dali/release-notes/index.html, line 241: ReferenceError: stLight is not defined
+1621234212795	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: http://www.pygal.org/en/stable/changelog.html, line 689: ReferenceError: SphinxRtdTheme is not defined
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+[Parent 15860, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1621242175801	Marionette	INFO	Stopped listening on port 58658

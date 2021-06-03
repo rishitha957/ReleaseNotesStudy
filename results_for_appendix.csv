@@ -1,0 +1,80 @@
+Community Updates â€” Requests 2.25.1 documentation,6,2,"when passed objects that throw exceptions from tell, send them via chunked transfer encoding instead of failing."
+Release notes â€” pandas 1.2.4 documentation,351,110,"removed the previously deprecated keyword index from read_stata, statareader, and statareader.read, use index_col instead "
+fire Â· PyPI,0,0, - 
+ccxt Â· PyPI,0,0, - 
+Changelog â€” beets 1.4.9 documentation,27,24,"when previewing changes during import, differences in track duration are now shown as 2:50 vs. 3:10 rather than separated with -> like track numbers. this should clarify that beets isn t doing anything to modify lengths."
+CHANGELOG - AllenNLP v2.4.0,6,3,"allennlp.common.util.peak_memory_mb renamed to peak_cpu_memory, and allennlp.common.util.gpu_memory_mb renamed to peak_gpu_memory, and they both now return the results in bytes as integers. also, the peak_gpu_memory function now utilizes pytorch functions to find the memory usage instead of shelling out to the nvidia-smi command. this is more efficient and also more accurate because it only takes into account the tensor allocations of the current pytorch process."
+Theano Release Notes :: NVIDIA Deep Learning Frameworks Documentation,0,0, - 
+Releases | Apache Arrow,41,6,arrow-10261 - lists should take field instead of datatype
+Release notes - Albumentations Documentation,0,0, - 
+Changelog â€” Paramiko documentation,15,11, #356: add support for sha-2 based key exchange algorithm diffie-hellman-group-exchange-sha256 and mac algorithms hmac-sha2-256 and hmac-sha2-512.
+Altair Change Log â€” Altair 4.1.0 documentation,0,0, - 
+Release notes â€” Scrapy 2.5.0 documentation,54,14,"replaced memory usage acounting with resource module, removed scrapy.utils.memory module"
+Changes â€” Werkzeug Documentation (2.1.x),24,10,overhauled the utilization of the input stream to be easier to use and better to extend. the detection of content payload on the input side is now more compliant with http by detecting off the content type header instead of the request method. this also now means that the stream property on the request class is always available instead of just when the parsing fails.
+Release Notes â€” Featuretools 0.24.0 documentation,7,5,replace pd.timedelta time units that were deprecated 
+Changelog â€” gevent 21.1.3.dev0 documentation,1,0, - 
+Changelog â€” marshmallow 3.12.1 documentation,12,2,remove make_object. use a post_load method instead .
+Release History - Stanza,0,0, - 
+Change log â€” Docker SDK for Python 5.0.0 documentation,6,2,"create_host_config, create_ipam_pool and create_ipam_config have been removed from docker.utils. they have been replaced by the following classes in docker.types: hostconfig, ipampool and ipamconfig."
+Upgrade Guide â€” CuPy 9.0.0 documentation,3,1,"for performance reasons, cupy.count_nonzero has been changed to return zero-dimensional ndarray instead of int when axis=none. see the discussion in #154 for more details."
+Changelog â€” Jedi 0.18.0 documentation,1,0, - 
+Asyncpg Changelog - pyup.io,2,1," * add support for ""tuple"" exchange format for codec overrides."
+Changelog (Version History) â€” Telethon 1.21.1 documentation,6,4,"other internal changes include a somewhat more readable .to_bytes function and pre-computing the flag instead using bit shifting. the tlobject.constructor_id has been renamed to tlobject.constructor_id, and .subclass_of_id is also uppercase now."
+Changelog â€” librosa 0.8.0 documentation,14,1,"spectrogram frames are now centered, rather than left-aligned. this removes the need for window correction in librosa.frames_to_time"
+Release History â€” virtualenv 20.4.6.dev2+g7bfd444 documentation,0,0, - 
+Release history â€” Trio 0.18.0+dev documentation,28,2,"trio.catch_signals has been deprecated in favor of open_signal_receiver. the main differences are: it takes *-args now to specify the list of signals instead of catch_signals), and, the async iterator now yields individual signals, instead of batches "
+Changelog - isort,7,3,"potentially interface breaking: - the -r option for removing imports has been renamed -rm to avoid accidental deletions and confusion with the -rc recursive option. - __init__.py has been removed from the default ignore list. the default ignore list is now empty - with all items needing to be explicitly ignored. - isort will now by default ignore .tox / venv folders in an effort to be ""safe"". you can disable this behaviour by setting the ""--unsafe"" flag, this is separate from any skip or not skip rules you may have in place. - isort now allows for files missing closing newlines in whitespace check - distutils support has been removed to simplify setup.py"
+Release Notes â€” MechanicalSoup 1.0.0 documentation,3,0, - 
+Release Notes - mlxtend,8,4,"the stackingclassifier has a new parameter average_probas that is set to true by default to maintain the current behavior. a deprecation warning was added though, and it will default to false in future releases ; average_probas=false will result in stacking of the level-1 predicted probabilities rather than averaging these."
+Version history â€” APScheduler 3.7.0 documentation,3,1,"changed asyncioscheduler to obtain the event loop in start instead of __init__, to prevent situations where the scheduler won t run because it s using a different event loop than then one currently running"
+Changelog â€” websockets 9.0 documentation,5,2,"[""changed the origins argument to represent the lack of an origin with none rather than ''.""]"
+Changelog - LSP Mode - LSP support for Emacs,1,1,changed flymake to report the errors immediately after they arrive instead of waiting flymake to call lsp-mode.
+What's New,7,5, changed the behaviour of clock.tick to use sdl_delay instead of a busy
+Release Notes :: NVIDIA Deep Learning DALI Documentation,17,6,"the api for the tensorflow plugin changed to allow specifying the whole shape of the tensor instead of n, h, and w separately; which enables handling both nchw and nhwc outputs."
+Changelog â€” Dramatiq 1.10.0 documentation,1,0, - 
+Cerberus Changelog â€” Cerberus is a lightweight and extensible data validation library for Python,7,3,change allowed rule to use containers instead of lists 
+Changelog â€” Authlib 1.0.0.dev documentation,2,0, - 
+Changelog â€” pygal 2.0.0 documentation,4,4,mode option has been renamed to a less generic name: box_mode
+Changelog â€” ELI5 0.11.0 documentation,1,0, - 
+Changelog â€” LIEF Documentation,0,0, - 
+Thinc Changelog - pyup.io,1,0, - 
+pyserial/CHANGES.rst at master Â· pyserial/pyserial Â· GitHub,3,0, - 
+Pychromecast Changelog - pyup.io,3,3, - **breaking change** remove blocking option from chromecast emontnemery
+Changelog â€” Urwid 2.1.2,3,1,removed util.register_align_mode and util.register_wrap_mode. their functionality has been replaced by the new layout classes.
+Change history â€” Kombu 5.0.2 documentation,22,15,connection: there s now a new method connection.supports_exchange_type that can be used to check if the current transport supports a specific exchange type.
+Changelog â€” django-import-export 2.5.1.dev0 documentation,3,1,"try to use ordereddict instead of sorteddict, which is deprecated in django 1.7 "
+Release Notes â€” Catalyst 0.5.21 documentation,5,5,raising an error for order amounts smaller than exchange lots
+viewflow/CHANGELOG.rst at master Â· viewflow/viewflow Â· GitHub,1,1,"all conditions in if, switch and other nodes receives now a node activation instance instead of process. so you can gen an access to the current task via activation.task variable."
+News â€” pyquery 1.3.x documentation,0,0, - 
+furl v2.0.0 release notes (2018-10-16) | LibHunt,0,0, - 
+Whatâ€™s New â€” xlwings dev documentation,3,1,: vba settings: udf_path has been replaced with udf_modules. the default behaviour doesn t change though .
+instagram_private_api/CHANGELOG.md at master Â· ping/instagram_private_api Â· GitHub,2,1,client.standard_ratios and client.reel_ratios is deprecated and replaced with mediaratios.standard and mediaratios.reel respectively.
+Changelog â€” aeneas 1.7.3 documentation,2,1,updated install.md to brew install from daniel bair s tap instead of official brew repo since they removed the formula for aeneas 
+orjson/CHANGELOG.md at master Â· ijl/orjson Â· GitHub,0,0, - 
+pex/CHANGES.rst at main Â· pantsbuild/pex Â· GitHub,8,4,"this ordinarily should not be a problem but the zipimporter caches metadata by filename instead of stat/sha, so if the underlying contents changed a runtime error would be thrown due to seemingly corrupt zip file offsets. rb #684"
+PyFunctional/CHANGELOG.md at master Â· EntilZha/PyFunctional Â· GitHub,1,1,added data interchange tutorial with pandas (link
+javacpp-presets/CHANGELOG.md at master Â· bytedeco/javacpp-presets Â· GitHub,4,1,"remove unneeded @opaque types from gsl and replace them with their definitions whose names end with ""_struct"""
+PyLaTeX/changelog.rst at master Â· JelteF/PyLaTeX Â· GitHub,2,1,for better readability let ~.escape_latex change a newline to \\\\%\\n instead of simply \\\\.
+essentia/Changelog at master Â· MTG/essentia Â· GitHub,0,0, - 
+Changelog â€” Apache Libcloud 3.3.2-dev documentation,28,16,replace old enum style provider constants and replace them with a string version. this change allows users to dynamically register new drivers using a new set_driver method. 
+scrapely/NEWS at master Â· scrapy/scrapely Â· GitHub,1,1,- replaced deprecated functions
+filterpy/changelog.txt at master Â· rlabbe/filterpy Â· GitHub,2,0, - 
+pgmpy/CHANGELOG.md at dev Â· pgmpy/pgmpy Â· GitHub,0,0, - 
+Release notes Â· andrewssobral/bgslibrary Wiki Â· GitHub,0,0, - 
+stumpy/CHANGELOG.md at main Â· TDAmeritrade/stumpy Â· GitHub,1,1,removed all aamp references as normalize=false should be used instead
+Voluptuous Changelog - pyup.io,0,0, - 
+Changelog â€” Tenacity documentation,0,0, - 
+python-miio/CHANGELOG.md at master Â· rytilahti/python-miio Â· GitHub,5,2,"this release adds support for several new devices, and contains improvements and fixes on several existing integrations. instead of summarizing all changes here, this library seeks to move completely automated changelogs based on the pull request tags to facilitate faster release cycles. until that happens, the full list of changes is listed below as usual."
+NumCpp: Release Notes,0,0, - 
+Rauth Changelog â€” rauth 0.7.2 documentation,0,0, - 
+abseil-py/CHANGELOG.md at master Â· abseil/abseil-py Â· GitHub,0,0, - 
+shodan-python/CHANGELOG.md at master Â· achillean/shodan-python Â· GitHub,1,0, - 
+Changelog â€” dateutil 2.8.1 documentation,8,3,"changed many aspects of dealing with the zone info file. instead of a cache, all the zones are loaded to memory, but symbolic links are loaded only once, so not much memory is used."
+Changelog â€” PyCryptodome 3.9.9 documentation,3,0, - 
+aiyprojects-raspbian/CHANGES.md at aiyprojects Â· google/aiyprojects-raspbian Â· GitHub,0,0, - 
+Releases Â· patrikhuber/eos Â· GitHub,0,0, - 
+Changelog â€” AmpliGraph 1.3.0 documentation,0,0, - 
+4. Release Notes â€” Buildbot 3.1.1 documentation,14,2,removed support for deprecated nextworker function signature that accepts two parameters instead of three.
+Release Downloads | volatilityfoundation,0,0, - 
+CHANGELOG â€” rqalpha 4.3.x æ–‡æ¡£,0,0, - 
+Release Notes â€” nameko 2.12.0 documentation,3,0, - 
